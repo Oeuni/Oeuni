@@ -1,9 +1,11 @@
 <!-- 🎀 헤더 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffe4e1&height=300&section=header&text=Oeuni%20House&fontSize=90&fontColor=ffffff" />
-</p><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb0c7&height=300&section=header&text=Oeuni%20House&fontSize=90&fontColor=ffffff" />
+</p>
+<br><br><br>
 
-    
+
+
 ## 🐹 solved.ac
 
 <div align="center">
@@ -29,11 +31,17 @@
   
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oeuni&show_icons=true&theme=tokyonight&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Oeuni&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&stroke=FFB6C1&ring=FF69B4&fire=FF69B4" width="48%" />
+  <!-- 연속커밋 배지: 가로 90% 정도로 크게 -->
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Oeuni&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&stroke=FFB6C1&ring=FF69B4&fire=FF69B4&background=000000" width="90%" /> -->
+
+  <!-- 나머지 두 배지: 가로 45%씩, 같은 줄에 배치 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oeuni&layout=compact&theme=tokyonight&title_color=FF69B4&text_color=C71585&bg_color=00000000" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Oeuni&show_icons=true&theme=tokyonight&title_color=FF69B4&icon_color=FF69B4&text_color=C71585&bg_color=00000000" width="45%" />
 </div><br><br><br>
+
+
+
 
   
 
@@ -41,7 +49,8 @@
 
 <div align="center">
   <a href="https://oeuni.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-FFB6C1?style=flat-square&logo=tistory&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tistory-FFB6C1?style=for-the-badge&logo=tistory&logoColor=white&fontColor=ffffff" 
+         style="height: 60px; width: auto;" />
   </a>
 </div>
 <br><br><br>
@@ -49,6 +58,6 @@
   
 <!-- 🎀 푸터 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffe4e1&height=200&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb0c7&height=200&section=footer"/>
 </p>
 
