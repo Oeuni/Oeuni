@@ -18,6 +18,8 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
+  <img src="https://img.shields.io/badge/HTML-E6A6B5?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-E6A6B5?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-FFB6C1?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-FF99CC?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-F9A3C7?style=flat-square&logo=mysql&logoColor=white"/>
@@ -25,7 +27,7 @@
   <img src="https://img.shields.io/badge/Spring-FFC0CB?style=flat-square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-F6ADC6?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-FADADD?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud%20Run-F3A6B1?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-F3A6B1?style=flat-square&logo=googlecloud&logoColor=white"/>
 </div><br><br><br>
 
   
@@ -36,8 +38,8 @@
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Oeuni&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&stroke=FFB6C1&ring=FF69B4&fire=FF69B4&background=000000" width="90%" /> -->
 
   <!-- 나머지 두 배지: 가로 45%씩, 같은 줄에 배치 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oeuni&layout=compact&theme=tokyonight&title_color=FF69B4&text_color=C71585&bg_color=00000000" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Oeuni&show_icons=true&theme=tokyonight&title_color=FF69B4&icon_color=FF69B4&text_color=C71585&bg_color=00000000" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oeuni&layout=compact&theme=tokyonight&title_color=FF69B4&text_color=C71585&bg_color=00000000" width="45%" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Oeuni&show_icons=true&theme=tokyonight&title_color=FF69B4&icon_color=FF69B4&text_color=C71585&bg_color=00000000" width="45%" height="195" />
 </div><br><br><br>
 
 
